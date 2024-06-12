@@ -1,18 +1,15 @@
----
+```markdown
+# hCoptcha Go Package
 
-# hCaptcha Solver
-
-This is a Go package for solving hCaptcha challenges automaticly with https://hcoptcha.online. It allows you to create tasks to solve hCaptcha challenges and retrieve the solutions.
+This is a Go package for solving hCaptcha challenges automatically with [hCoptcha.online](https://hcoptcha.online). It allows you to create tasks to solve hCaptcha challenges and retrieve the solutions.
 
 ## Installation
 
 To use this package, you need to have Go installed. You can install it using the following command:
 
 ```bash
-go get github.com/CirtuitSavage/Hcoptcha-GO/hcaptcha
+go get github.com/CircuitSavage/Hcoptcha-GO/hcaptcha
 ```
-
-Replace `yourusername` with your GitHub username.
 
 ## Usage
 
@@ -23,7 +20,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/yourusername/hCaptcha/hcaptcha"
+	"github.com/CircuitSavage/Hcoptcha-GO/hcaptcha"
 )
 
 func main() {
@@ -80,7 +77,7 @@ func main() {
 }
 ```
 
-Replace `yourAPIKey`, `yourProxy`, `yourSiteKey` and `Url` with your actual hCaptcha API key, proxy, and site key.
+Replace `yourAPIKey`, `yourProxy`, `yourSiteKey`, and `Url` with your actual hCaptcha API key, proxy, site key, and URL.
 
 ## Contributing
 
@@ -89,5 +86,6 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+```
 
----
+Feel free to use this in your GitHub repository! Let me know if you need further assistance.
