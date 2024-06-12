@@ -1,5 +1,3 @@
-Sure, here's a simple README file that you can use as a starting point:
-
 ---
 
 # hCaptcha Solver
