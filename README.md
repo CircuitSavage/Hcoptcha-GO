@@ -8,7 +8,7 @@ This is a Go package for solving hCaptcha challenges automatically with [hCoptch
 To use this package, you need to have Go installed. You can install it using the following command:
 
 ```bash
-go get github.com/CircuitSavage/Hcoptcha-GO/hcaptcha
+go get github.com/CircuitSavage/hCoptcha-GO/hcaptcha
 ```
 
 ## Usage
